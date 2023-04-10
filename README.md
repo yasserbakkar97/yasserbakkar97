@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Software Engineer with a passion for coding and problem solving<br>For now, I am Jr. Android developer 
+I am Software Developer with a passion for coding and problem solving<br>For now, I am Jr. Android developer 
 
 
 ## 🌐 Socials:
