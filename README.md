@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Junior Software Developer, I am deeply passionate about coding and problem-solving. Currently, I specialize in Android development and I am in my last year of university studies. I love learning every day. I am constantly seeking out new challenges to push my abilities and grow my skills.
+A software developer about to graduate with a passion for coding and problem-solving, aspiring to be an expert Software developer. I learn every day and have developed a reputation for being a fast learner. I am always seeking new challenges to enhance my abilities and develop my skills.
 
 
 ## 🌐 Socials:
