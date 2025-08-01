@@ -1,6 +1,5 @@
 # 💫 About Me:
-A software developer about to graduate with a passion for coding and problem-solving, aspiring to be an expert Software developer. I learn every day and have developed a reputation for being a fast learner. I am always seeking new challenges to enhance my abilities and develop my skills.
-
+Software Engineer with an honors degree in Computer Engineering and over 2 years of experience in building responsive web interfaces and Android applications. Skilled in modern frontend frameworks (Vue.js, Nuxt, React) and mobile development using Kotlin. Passionate about creating user-focused solutions and continuously learning new technologies. Strong team player with a growth mindset and solid problem-solving abilities.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasser_bakkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasserbakkar97) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14896604) 
